@@ -1,0 +1,7 @@
+from bs4 
+requests
+pandas
+textblob
+gensim
+string
+nltk
