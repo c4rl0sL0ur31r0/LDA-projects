@@ -10,4 +10,7 @@ install libraries
 install pysocks
 apt-get install python3-socks
 
+install pyldavis
+>> pip3 install pyldavis
+
 enjoy.
